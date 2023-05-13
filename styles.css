@@ -76,5 +76,9 @@ body {
     background: hsl(217, 19%, 35%);
     color: #fff;
   }
+  .card--bg-black-blue {
+    background: hsl(219, 29%, 14%);
+    color: #fff;
+  }
   
-    
+      
